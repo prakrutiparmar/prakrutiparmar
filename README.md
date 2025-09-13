@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Hi, I'm Prakruti Parmar  
 
-<!--
-**prakrutiparmar/prakrutiparmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year **B.Tech Computer Science student (AI specialization)** with a passion for **Data Analytics, Machine Learning, and Business Intelligence**.  
+💡 Skilled in **SQL, Python, Tableau, and Power BI**, I love turning raw data into actionable insights and building impactful data-driven solutions.  
+🌱 Currently exploring **AI for real-world applications** and preparing for opportunities in **Data Analytics & Research**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+---
+
+## 📊 Projects  
+
+### [📂 HR Data Analytics Dashboard](https://github.com/luweunravel/HR-Data-Analytics-Dashboard)  
+- Interactive **Tableau dashboard** analyzing 1,400+ employee records with attrition insights.  
+- Identified a simulated 15% attrition spike in Sales and recommended retention strategies.  
+
+### [📂 E-Retail Analytics with SQL & Python](https://github.com/prakrutiparmar/E-Retail-Analytics-with-SQL-Python)  
+- Built an **end-to-end SQL–Python pipeline** on 25K+ retail transactions.  
+- Used **joins, CTEs, and window functions** for segmentation & trend analysis.  
+- Delivered business recommendations on **inventory & pricing strategies**.  
+
+### [📂 Weather Insights Dashboard](https://github.com/prakrutiparmar/Weather-Insights-Dashboard)  
+- Real-time **Power BI dashboard** integrating live weather & AQI data via API.  
+- Automated pipelines with Power Query & applied **DAX KPIs** for anomaly detection.  
+
+---
+
+## 📜 Certifications  
+- Python 101 for Data Science — IBM  
+- Introduction to Data Analytics on Google Cloud — Google Cloud Skills Boost  
+
+---
+
+## 🏆 Achievements  
+- **Top 100 nationally** (99/1000+) in Eurogrip TORQ Challenge 3.0.  
+- Participant in **Hack This Fall 3.0**, a 48-hour virtual hackathon.  
+- Strong teamwork & presentation skills through collaborative university projects.  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prakrutiparmar&show_icons=true&theme=radical" alt="Prakruti's GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakrutiparmar&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
+
+---
+
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakrutiparmar)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prakrutiparmar)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakruti.parmar96@gmail.com)  
+
+---
+
+⭐️ *"Turning data into insights, and insights into impact."*  
