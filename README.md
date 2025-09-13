@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Prakruti Parmar  
 
-🎓 Final-year **B.Tech Computer Science student (AI specialization)** with a passion for **Data Analytics, Machine Learning, and Business Intelligence**.  
-💡 Skilled in **SQL, Python, Tableau, and Power BI**, I love turning raw data into actionable insights and building impactful data-driven solutions.  
-🌱 Currently exploring **AI for real-world applications** and preparing for opportunities in **Data Analytics & Research**.  
+Final-year B.Tech Computer Science (AI specialization) student with hands-on experience in data analysis, SQL, and visualization. Skilled in transforming raw data into meaningful insights using Python, Tableau, and Power BI. Experienced in building dashboards, writing optimized SQL queries, and performing exploratory data analysis to uncover trends and support decision-making. Passionate about leveraging data to solve problems, improve processes, and deliver actionable insights. Currently exploring **AI for real-world applications** and preparing for opportunities in **Data Analytics & Research**.  
 
 ---
 
